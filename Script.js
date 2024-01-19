@@ -1,0 +1,1 @@
+let name = console.log('New name',nums1)

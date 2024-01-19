@@ -1,1 +1,2 @@
-let name = console.log('New name',nums1)
+let name = Arul Abimanyu
+console.log('name')
